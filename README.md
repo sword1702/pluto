@@ -1,2 +1,1 @@
-# pluto
-client
+# Stand With Ukraine! 🇺🇦
