@@ -15,7 +15,7 @@ public class InstallerFrame
     public InstallerFrame()
     {
         FlatLightLaf.setup(new FlatDarculaLaf());
-        frame = new JFrame("3arthh4ck-Installer");
+        frame = new JFrame("Pluto-Installer");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 
         JPanel panel = new JPanel();
